@@ -5,3 +5,4 @@ pyotp
 PGPy
 paramiko
 xmltodict
+frappe>=14.98.0 # not directly required, pinned by Snyk to avoid a vulnerability
